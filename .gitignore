@@ -6,6 +6,8 @@
 *.dylib
 *.xml
 *.iml
+coverage.out
+cover.html
 
 
 # Test binary, built with `go test -c`
